@@ -1,4 +1,4 @@
-module github.com/jwhist/jwconfig
+module github.com/JWhist/jwconfig
 
 go 1.20
 
