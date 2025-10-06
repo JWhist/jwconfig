@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/creasty/defaults v1.7.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	gopkg.in/yaml.v3 v3.0.1
 )
 
